@@ -13,7 +13,7 @@ https://igorneveskm.github.io/JavascriptBasico/Atividade_imc/index.html
 https://igorneveskm.github.io/JavascriptBasico/Aula03/Aula03.html
 
 ## TABUADA:
-https://igorneveskm.github.io/JavascriptBasico/TABUADA/.html
+https://igorneveskm.github.io/JavascriptBasico/Tabuada/index.html
 
 
 
