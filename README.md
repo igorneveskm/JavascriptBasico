@@ -10,7 +10,7 @@ https://igorneveskm.github.io/JavascriptBasico/Funcoes/funcoes.html
 https://igorneveskm.github.io/JavascriptBasico/Atividade_imc/index.html
 
 ## Aula03:
-https://igorneveskm.github.io/JavascriptBasico/Aula03/Aula03.html
+https://igorneveskm.github.io/JavascriptBasico/Aula03/aula03.html
 
 ## TABUADA:
 https://igorneveskm.github.io/JavascriptBasico/Tabuada/index.html
