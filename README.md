@@ -4,5 +4,5 @@
 https://igorneveskm.github.io/JavascriptBasico/Declaraçãodevariaveis/aula1.html
 
 ## Aula Funções:
-https://igorneveskm.github.io/JavascriptBasico/funcoes/funcoes.html
+https://igorneveskm.github.io/JavascriptBasico/funcoes.html
 
