@@ -1,0 +1,41 @@
+body{
+    height: 100%;
+    background: linear-gradient(
+    90deg,
+    #925841 0%,#FFEEE2 100%
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 50%;
+    margin-left: 0%;
+    
+}
+
+h1{
+    color: #000000;
+}
+
+h2{
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+    text-align: center;
+}
+.forms{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 2rem;
+}
+.imprimir{
+    font-size: 2rem;
+    background-color: rgb(255, 255, 255);
+}
+.botao:hover{
+        background-color: #925841;
+        color: white;
+}
