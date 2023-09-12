@@ -1,24 +1,24 @@
-function calcula_imc(){
+function calcula_imc(event){
+    event.preventDefault(); //Evita o envio do formulário
+
     var altura = document.imcForm.altura.value;
     var peso = document.imcForm.peso.value;
 
-    var calculo = (peso/(altura*altura));
+    var calculo = peso / (altura * altura);
 
-    if(calculo<18.5){
-        resultado= "voce esta magro com esse indice: " + calculo
-    }
-    if(calculo>=18.5 && calculo<24.9){
-        resultado= "voce esta normal com esse indice: " + calculo
-    }
-    if(calculo>=25 && calculo<24.9){
-        resultado="voce esta sobre peso com esse indice: " + calculo
-    }
-    if(calculo>=30 && calculo<39.9){
-        resultado="voce esta com obsidade esse indice: " + calculo
-    }
-    if(calculo>40){
-        resultado= "voce esta com obsidade grave esse indice: " + calculo
+    var resultado;
+
+    if (calculo < 18.5) {
+        resultado = "Você está magro com esse índice: " + calculo;
+    } else if (calculo >= 18.5 && calculo < 24.9){
+        resultado = "Você está normal com esse índice: " + calculo;
+    } else if(calculo>=25 && calculo<29.9){
+        resultado = "Você está com sobre peso com esse índice: " + calculo
+    }else if(calculo>= 30 && calculo<39.9){
+        resultado = "Você está com obesidade com esse índice: " + calculo
+    }else if(calculo>=40){
+        resultado = "Você está com obesidade grave com esse índice: " + calculo
     }
 
-    document.getElementById('resul').innerHTML = resultado
+    document.getElementById('resul').innerHTML = resultado;
 }
