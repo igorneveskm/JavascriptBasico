@@ -6,3 +6,8 @@ https://igorneveskm.github.io/JavascriptBasico/Declaraçãodevariaveis/aula1.htm
 ## Aula Funções:
 https://igorneveskm.github.io/JavascriptBasico/Funcoes/funcoes.html
 
+## Atividade_imc:
+https://igorneveskm.github.io/JavascriptBasico/Atividade_imc/index.html
+
+
+
