@@ -9,5 +9,12 @@ https://igorneveskm.github.io/JavascriptBasico/Funcoes/funcoes.html
 ## Atividade_imc:
 https://igorneveskm.github.io/JavascriptBasico/Atividade_imc/index.html
 
+## Aula03:
+https://igorneveskm.github.io/JavascriptBasico/Aula03/Aula03.html
+
+## TABUADA:
+https://igorneveskm.github.io/JavascriptBasico/TABUADA/.html
+
+
 
 
