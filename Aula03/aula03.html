@@ -1,20 +1,26 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
-<title>Inrição</title>
-<script src="funcao.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    
+    <title>Inscrição</title>
+    <script src="funcao.js"></script>
 </head>
-<body bgcolor="white"
- <form>
-    <h2 align="center">Cadastro</h2>
-    <div align="center">
-        <p>
-        <input type="button" value="Digitar Nome" onclick="nome=prompt('Seu Nome','')">
-        <input type="button" value="Digitar email" onclick="email=prompt('Email','')">
-        <input type="button" value="Valor do saque" onclick="saque=parseInt(prompt('Quanto quer sacar?',''))">
-        <input type="button" value="Cadastrar" onclick="escrever(this.from.Area)">
-        <p><textarea rows="10" cols="40" name="Area"></textarea>
-    </div>      
- </form>
- </body>
- </html>
-  
+<body background-color="white">
+    <form>
+        <h1> Cadastro </h1>
+        <img src="img/conect.gif">
+        <div text-align=center>
+            <p class = "botao">
+                <input class = "bt1" type="button" value="Digitar Nome" onclick="nome=prompt('Digite seu Nome', '')">
+                <input class = "bt2" type="button" value="Digitar E-mail" onclick="email=prompt('Digite o seu Email', '')">
+                <input class = "bt3" type="button" value="Valor do Saque" onclick="saque=parseInt(prompt(' Digite o quanto você quer sacar?', ''))">
+                <input class = "bt4" type="button" value="Cadastrar" onclick="escrever(this.form.Area)">
+                <p><textarea cols="61" rows="11" name="Area"></textarea>
+        </div>
+    </form>
+</body>
+</html>

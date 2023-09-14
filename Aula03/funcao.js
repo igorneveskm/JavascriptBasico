@@ -13,7 +13,7 @@ function escrever(quadro){
     info = "Usuario numero" + (++num) + "\n";
     info += "Nome" + nome + "\n";
     info += "email" + email + "\n";
-    info += "Saldo" +comretorno(saque) + "\n";
+    info += "Saldo:" + comretorno(saque) + "\n \n";
     quadro.value += info;
 
 }
