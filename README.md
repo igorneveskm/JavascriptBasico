@@ -17,7 +17,7 @@ https://igorneveskm.github.io/JavascriptBasico/Tabuada/index.html
 
 ## ORIENTAÇÃO AO OBJETO:
 
-https://igorneveskm.github.io/JavascriptBasico/obj_orientados/inicio.html
+https://igorneveskm.github.io/JavascriptBasico/obj_orientados/Inicio.html
 
 ## TROCA IMAGEM:
 
