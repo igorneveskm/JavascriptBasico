@@ -21,7 +21,11 @@ https://igorneveskm.github.io/JavascriptBasico/obj_orientado/inicio.html
 
 ## TROCA IMAGEM:
 
-https://igorneveskm.github.io/JavascriptBasico/troca_imagem/inicio.html
+https://igorneveskm.github.io/JavascriptBasico/troca_imagem/index.html
+
+## REGEX FINAL:
+
+https://igorneveskm.github.io/JavascriptBasico/troca_imagemfinal/index.html
 
 
 
